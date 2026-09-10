@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Environments and local configuration
+.venv/
+venv/
+env/
+.env
+.env.*
+
+# Model and dataset artifacts
+dataset/
+datasets/
+checkpoints/
+models/
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.parquet
+data.csv
+
+# Generated frames, maps, and run output
+temp_frames/
+temp_warped_frames/
+outputs/
+output_runs/
+*.npy
+*.npz
+*.log
+2k.txt
+
+# Editors and operating systems
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

@@ -1,0 +1,11 @@
+accelerate>=1.0,<2
+fastparquet>=2024.0
+numpy>=1.26,<3
+opencv-python-headless>=4.9,<5
+pandas>=2.0,<3
+pillow>=10,<13
+qwen-vl-utils>=0.0.14
+torch>=2.1
+torchvision>=0.16
+tqdm>=4.66
+transformers>=4.49,<6

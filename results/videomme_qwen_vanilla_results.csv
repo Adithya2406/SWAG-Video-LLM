@@ -1,0 +1,25 @@
+video_id,question,answer,pred_orig,correct_orig,pred_vanilla,correct_vanilla,pred_flow,correct_flow
+6Z_XNM_iT4g,"In the legend, when the character with a fox tail goes left, what is her intention or goal?",B,D,False,D,False,D,False
+6Z_XNM_iT4g,Which skill is used by the legend who slays the enemy?,B,B,True,B,True,B,True
+6Z_XNM_iT4g,What type of weapon does the slain legend retrieve?,C,C,True,C,True,C,True
+Q0B5dLHDQ2w,Which animal is the character depicted as in the video?,B,B,True,B,True,B,True
+Q0B5dLHDQ2w,Which location is the current whereabouts of the creature?,A,A,True,A,True,A,True
+Q0B5dLHDQ2w,Which object does the creature hold in its hand?,D,D,True,D,True,D,True
+TVkck1ACKDQ,What organ did the woman in the video remove from the medical model?,A,D,False,D,False,D,False
+TVkck1ACKDQ,What is the purpose of the video?,B,C,False,C,False,C,False
+TVkck1ACKDQ,How many different people appear in the video?,C,C,True,D,False,C,True
+aqTIB_q40bo,Which of the following options describes a common trait shared by the characters in the video?,C,C,True,C,True,C,True
+aqTIB_q40bo,Which summarizes the main content of this video?,B,C,False,B,True,B,True
+aqTIB_q40bo,"At the end of the video, how many books can be seen resting on the living room table?",B,D,False,D,False,D,False
+lsfEHOtYGyk,Which player does the video call for to finally put the ball in the basket?,A,B,False,B,False,B,False
+lsfEHOtYGyk,Which player is running the pick-and-roll for the other players?,B,B,True,B,True,B,True
+lsfEHOtYGyk,Which sport's tactics are shown in the video?,A,A,True,A,True,A,True
+of62s85uMMs,What is the location of the scene being depicted in the video?,D,D,True,D,True,D,True
+of62s85uMMs,How many craches occurs in this video?,B,B,True,B,True,B,True
+of62s85uMMs,How many cars are overtaken in this video?,D,D,True,D,True,D,True
+uoJDGnaVuTg,What do the two spider-men do in this video?,C,C,True,C,True,C,True
+uoJDGnaVuTg,Which person placed their leg on the table?,C,C,True,C,True,C,True
+uoJDGnaVuTg,How does the right one become at the end?,A,D,False,D,False,D,False
+y6ReUXtm_VE,What is the atmosphere portrayed in the video like?,D,C,False,C,False,C,False
+y6ReUXtm_VE,What is the reason for entering cold water in the video during the winter season?,B,B,True,B,True,B,True
+y6ReUXtm_VE,What is the approximate temperature shown in the video?,B,B,True,B,True,B,True
